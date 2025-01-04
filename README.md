@@ -69,6 +69,11 @@ Um den Motor zu stoppen, wenn die Klappe offen oder geschlossen ist, sollten zus
 Die Klappe soll sich in zwei unterschiedlichen Modi öffnen und schließen. Standardmäßig soll mittels eines Photoresistors erkannt werden, ob Tag oder Nacht ist. Bei Tag öffnet sich die Klappe und bei Nacht schließt sie sich automatisch. Dies ist der Automatikmodus, dessen Aktivierung mit einer blauen LED signalisiert wird.
 Mit einer weiteren blauen LED wird signalisiert, dass der Handmodus aktiv ist, in welchem durch Drücken eines Tasters die Position der Klappe jeweils in die andere wechselt (offen zu geschlossen und umgekehrt). Zwischen den beiden Modi kann mit einem weiteren Taster hin- und hergewechselt werden. Falls die Klappe z. B. abreißt und für eine zu lange Zeit nicht die andere Position erreicht, wird der Motor gestoppt und die rote LED aktiviert sich. 
 
+Zur Veranschaulichung ein Bild des finalen Aufbaus
+
+![image](https://github.com/user-attachments/assets/af7b54e4-d6e4-4713-b592-e271a8094823)
+
+
 
 ## Flussdiagramm
 
